@@ -86,24 +86,24 @@ Designing secure APIs and optimizing performance with:
 
 | Skill Area | Score ⭐ | Progress |
 |------------|----------|----------|
-| Frontend (React, Vue, Redux) | ⭐⭐⭐⭐⭐ | ![100%](https://progress-bar.dev/100/) |
-| Backend (Node.js, Laravel)   | ⭐⭐⭐⭐☆ | ![90%](https://progress-bar.dev/90/) |
-| Cloud (AWS, Docker, Linux)   | ⭐⭐⭐⭐☆ | ![85%](https://progress-bar.dev/85/) |
-| AI/ML (YOLOv, Colab, Label Studio) | ⭐⭐⭐⭐☆ | ![85%](https://progress-bar.dev/85/) |
-| Mobile (React Native)        | ⭐⭐⭐⭐☆ | ![80%](https://progress-bar.dev/80/) |
-| Database (MySQL, MongoDB, PostgreSQL) | ⭐⭐⭐⭐⭐ | ![100%](https://progress-bar.dev/100/) |
+| Frontend (React, Vue, Redux) | ⭐⭐⭐⭐⭐ | ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen) |
+| Backend (Node.js, Laravel)   | ⭐⭐⭐⭐☆ | ![90%](https://img.shields.io/badge/Progress-90%25-green) |
+| Cloud (AWS, Docker, Linux)   | ⭐⭐⭐⭐☆ | ![85%](https://img.shields.io/badge/Progress-85%25-yellowgreen) |
+| AI/ML (YOLOv, Colab, Label Studio) | ⭐⭐⭐⭐☆ | ![85%](https://img.shields.io/badge/Progress-85%25-yellowgreen) |
+| Mobile (React Native)        | ⭐⭐⭐⭐☆ | ![80%](https://img.shields.io/badge/Progress-80%25-yellow) |
+| Database (MySQL, MongoDB, PostgreSQL) | ⭐⭐⭐⭐⭐ | ![100%](https://img.shields.io/badge/Progress-100%25-brightgreen) |
 
 ---
 
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160" />
 </p>
 
 ---
