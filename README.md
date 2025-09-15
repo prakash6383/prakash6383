@@ -56,7 +56,7 @@ Designing secure APIs and optimizing performance with:
 
 ### 🤖 AI & Machine Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/YOLOv-Ultralytics-FF6F00?logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-Ultralytics-FF6F00?logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/LabelStudio-FFB000?logo=label&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
