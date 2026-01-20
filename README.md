@@ -32,6 +32,7 @@ Designing secure APIs and optimizing performance with:
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-F37626?logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 </p>
 
 ---
