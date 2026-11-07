@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prakash  
 
 💻 **Full Stack Developer | Cloud & AI/ML Enthusiast | Problem Solver**  
-⚡ 4.2+ years of experience building **scalable applications & AI-driven solutions**.  
+⚡ 4.3+ years of experience building **scalable applications & AI-driven solutions**.  
 🚀 Skilled in **Web, Mobile, Cloud, and Machine Learning**, passionate about delivering impactful technology.  
 
 ---
